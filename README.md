@@ -68,20 +68,6 @@ I strongly believe in **continuous learning, practical implementation, and proje
 ---
 
 ## 🔥 Featured Projects
-
-### 🧠 Face Recognition Attendance System  
-**Tech Stack:** Python • OpenCV • NumPy • Pandas  
-An AI-powered attendance automation system that detects and recognizes faces in real-time using computer vision techniques.  
-
-✨ Highlights:
-- Real-time face detection & encoding
-- Automated attendance logging (CSV/Database)
-- Image preprocessing & model optimization
-
-🔗 [View Repository](https://github.com/yourusername/face-recognition-attendance)
-
----
-
 ### 📊 Student Performance Prediction System  
 **Tech Stack:** Python • Scikit-learn • Pandas • Matplotlib  
 A supervised machine learning model that predicts student performance based on academic and behavioral features.
@@ -117,12 +103,6 @@ A scalable MVC-based web application with authentication, database integration, 
 
 ## 📍 Location
 Coimbatore, Tamil Nadu, India
-
----
-
-## 🌟 Professional Philosophy
-
-> "Learning, Building, and Teaching — consistently."
 
 ---
 
