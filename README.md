@@ -1,128 +1,130 @@
-# Deepika Rajendran
+# 👋 Hi, I'm Deepika R
 
-**Data Scientist \| Full Stack Developer \| Technical Trainer**
+### 💡 Data Scientist | AI Trainer | Full Stack Developer (Python • Django • Ruby on Rails)
 
-📍 Tamil Nadu, India\
-📧 deepikarr10@gmail.com\
-🔗 GitHub: https://github.com/deepikarr10
+---
 
-------------------------------------------------------------------------
+## 🚀 About Me
 
-## Professional Summary
+I am a passionate **Data Scientist and AI Trainer** with a strong foundation in **Full Stack Development and backend engineering**. My professional journey combines industry experience in software development with applied Machine Learning and structured technical training.
 
-Dedicated and detail-oriented **Data Science Professional and Full Stack
-Developer** with a strong foundation in machine learning, data
-analytics, and web application development.\
-Experienced in delivering hands-on technical training and building
-scalable, data-driven solutions that bridge academic learning with
-industry requirements.
+With experience as a **Ruby on Rails Developer** and currently serving as a **Technical Trainer**, I specialize in designing scalable web applications and building intelligent ML systems while mentoring learners to become industry-ready professionals.
 
-Possess a unique combination of **analytical expertise, software
-development experience, and instructional capability**, enabling the
-design of practical solutions and the effective mentoring of aspiring
-professionals.
+I focus on:
+- End-to-end Machine Learning pipelines
+- Data preprocessing & feature engineering
+- Model development, evaluation & optimization
+- Computer Vision & NLP applications
+- MVC-based web architecture & REST API development
 
-------------------------------------------------------------------------
+I strongly believe in **continuous learning, practical implementation, and project-based skill building**.
 
-## Core Expertise
+---
 
--   Machine Learning Model Development and Validation\
--   Data Preprocessing, Exploratory Data Analysis (EDA), and Feature
-    Engineering\
--   Statistical Analysis and Predictive Modeling\
--   Full Stack Web Development (Ruby on Rails, Django)\
--   Data Visualization and Insight Communication\
--   Curriculum Delivery and Technical Mentorship\
--   End-to-End Project Lifecycle Management
+## 🧠 Core Competencies
 
-------------------------------------------------------------------------
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Data Science](https://img.shields.io/badge/Data%20Science-0A192F?style=for-the-badge&logo=anaconda&logoColor=green)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-1E3A8A?style=for-the-badge&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Natural Language Processing](https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logo=spacy&logoColor=white)
 
-## Technical Skills
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-2F855A?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-276749?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9F7AEA?style=for-the-badge&logo=pandas&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-805AD5?style=for-the-badge&logo=python&logoColor=white)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-6B46C1?style=for-the-badge&logo=xgboost&logoColor=white)
 
-**Programming Languages:**\
-Python \| Ruby \| JavaScript
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-0F766E?style=for-the-badge&logo=react&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC%20Architecture-134E4A?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![REST API Development](https://img.shields.io/badge/REST%20API%20Development-0369A1?style=for-the-badge&logo=fastapi&logoColor=white)
+![Database Design](https://img.shields.io/badge/Database%20Design-7C2D12?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Technologies:**\
-Django \| Ruby on Rails \| AngularJS \| HTML \| CSS
+---
 
-**Machine Learning & Data Analysis:**\
-Scikit-learn \| Pandas \| NumPy \| Matplotlib \| Seaborn
+## 💼 Professional Experience
 
-**Databases:**\
-MySQL \| MongoDB \| PostgreSQL
+### 👩‍🏫 Technical Trainer  
+**Rathinam Technical Campus, Coimbatore**
+- Deliver AI, Data Science, Python & Django training
+- Design structured, industry-oriented curriculum
+- Mentor learners on real-world ML projects
 
-**Tools & Platforms:**\
-Git \| GitHub \| Jupyter Notebook \| Google Colab
+### 👩‍💻 Ruby on Rails Developer  
+**Saastrial Venture**
+- Built database-driven web applications
+- Implemented MVC architecture and backend workflows
+- Worked with MySQL & MongoDB for scalable systems
 
-------------------------------------------------------------------------
+---
 
-## Selected Project Experience
+## 🎓 Certifications
 
-### Machine Learning Portfolio
+- AI for Future Workforce Program – Intel India
+- Gen AI for Software Development (Python)
+- Ruby Scripting for DevOps
+- MongoDB – NoSQL Database Development
 
-Developed multiple real-world analytical models covering classification,
-regression, clustering, and dimensionality reduction. Implemented
-workflows involving data cleaning, transformation, model training,
-validation, and performance evaluation.
+---
 
-### Customer Segmentation Using Clustering Techniques
+## 🔥 Featured Projects
 
-Applied K-Means and DBSCAN algorithms to identify meaningful customer
-groups and behavioral patterns.
+### 🧠 Face Recognition Attendance System  
+**Tech Stack:** Python • OpenCV • NumPy • Pandas  
+An AI-powered attendance automation system that detects and recognizes faces in real-time using computer vision techniques.  
 
-### Predictive Analytics for Sales and Pricing
+✨ Highlights:
+- Real-time face detection & encoding
+- Automated attendance logging (CSV/Database)
+- Image preprocessing & model optimization
 
-Built regression-based models with feature engineering and evaluation
-metrics to support data-driven forecasting.
+🔗 [View Repository](https://github.com/yourusername/face-recognition-attendance)
 
-### End-to-End Movie Analytics Project
+---
 
-Designed a complete pipeline from raw dataset preprocessing to
-visualization and predictive modeling for actionable insights.
+### 📊 Student Performance Prediction System  
+**Tech Stack:** Python • Scikit-learn • Pandas • Matplotlib  
+A supervised machine learning model that predicts student performance based on academic and behavioral features.
 
-### DailyTasks Web Application (Django)
+✨ Highlights:
+- Feature engineering & data preprocessing
+- Model comparison (Regression & Classification)
+- Evaluation using accuracy, precision & recall metrics
 
-Created a full-stack task management system demonstrating CRUD
-operations, template rendering, and database integration.
+🔗 [View Repository](https://github.com/yourusername/student-performance-prediction)
 
-### PivotXL -- Data Processing & KPI Dashboard
+---
 
-Developed modules for Excel data ingestion, transaction categorization,
-and KPI visualization using Rails-based architecture and interactive
-dashboards.
+### 🌐 Full Stack Web Application (Django)  
+**Tech Stack:** Django • REST API • MySQL • HTML/CSS  
+A scalable MVC-based web application with authentication, database integration, and REST API architecture.
 
-------------------------------------------------------------------------
+✨ Highlights:
+- User authentication & authorization
+- RESTful API integration
+- Optimized database schema design
 
-## Certifications
+🔗 [View Repository](https://github.com/yourusername/django-fullstack-app)
 
--   Associate Data Scientist in Python\
--   Gen AI for Software Development\
--   MongoDB: Complete Guide to NoSQL Development\
--   Ruby Scripting for DevOps\
--   Advanced Django Development
+---
 
-------------------------------------------------------------------------
+## 🌐 Connect With Me
 
-## Professional Strengths
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
--   Strong ability to translate complex data into meaningful business
-    insights\
--   Experience in both software engineering and applied data science\
--   Proven track record of mentoring learners through practical,
-    project-based training\
--   Commitment to clean code practices, model interpretability, and
-    scalable design\
--   Continuous learner focused on emerging AI and analytics technologies
+---
 
-------------------------------------------------------------------------
+## 📍 Location
+Coimbatore, Tamil Nadu, India
 
-## Current Focus
+---
 
-Actively expanding expertise in deployable machine learning solutions,
-applied analytics, and real-world data science implementations while
-contributing to educational and development-driven initiatives.
+## 🌟 Professional Philosophy
 
-------------------------------------------------------------------------
+> "Learning, Building, and Teaching — consistently."
 
-**Open to opportunities in Data Science, Machine Learning, Analytics,
-and Technical Development.**
+---
+
+✨ Always open to collaboration, learning opportunities, and AI-driven innovation projects.
+
