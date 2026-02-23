@@ -1,143 +1,128 @@
-# 👋 Deepika Rajendran
+# Deepika Rajendran
 
-### Data Scientist | Full Stack Developer | Technical Trainer
+**Data Scientist \| Full Stack Developer \| Technical Trainer**
 
-📍 Tamil Nadu, India
-📧 [deepikarr10@gmail.com](mailto:deepikarr10@gmail.com)
-🔗 https://github.com/deepikarr10
+📍 Tamil Nadu, India\
+📧 deepikarr10@gmail.com\
+🔗 GitHub: https://github.com/deepikarr10
 
----
+------------------------------------------------------------------------
 
-## 💼 Professional Summary
+## Professional Summary
 
-Results-driven **Data Science Trainer and Full Stack Developer** with experience in delivering industry-aligned technical training and building scalable web applications.
-Strong expertise in **Machine Learning, Data Analytics, and End-to-End Model Development**, combined with hands-on experience in **Ruby on Rails, Django, and Data-Driven Application Development**.
+Dedicated and detail-oriented **Data Science Professional and Full Stack
+Developer** with a strong foundation in machine learning, data
+analytics, and web application development.\
+Experienced in delivering hands-on technical training and building
+scalable, data-driven solutions that bridge academic learning with
+industry requirements.
 
-✔ 1+ Year Training Experience in Data Science & Python
-✔ 2 Years Industry Experience as Full Stack Developer
-✔ Built and Mentored 25+ Real-Time ML Projects
-✔ Strong focus on **Practical Implementation & Business Use-Cases**
+Possess a unique combination of **analytical expertise, software
+development experience, and instructional capability**, enabling the
+design of practical solutions and the effective mentoring of aspiring
+professionals.
 
----
+------------------------------------------------------------------------
 
-## 🧠 Core Competencies
+## Core Expertise
 
-* Machine Learning Model Development & Evaluation
-* Data Cleaning, EDA, Feature Engineering
-* Statistical Analysis & Predictive Modeling
-* Full Stack Development (Rails / Django)
-* Technical Training & Mentorship
-* Real-Time Project Design for Learners
-* Data Visualization & Insight Generation
+-   Machine Learning Model Development and Validation\
+-   Data Preprocessing, Exploratory Data Analysis (EDA), and Feature
+    Engineering\
+-   Statistical Analysis and Predictive Modeling\
+-   Full Stack Web Development (Ruby on Rails, Django)\
+-   Data Visualization and Insight Communication\
+-   Curriculum Delivery and Technical Mentorship\
+-   End-to-End Project Lifecycle Management
 
----
+------------------------------------------------------------------------
 
-## 🛠️ Technical Stack
+## Technical Skills
 
-**Languages:**
-`Python` `Ruby` `JavaScript`
+**Programming Languages:**\
+Python \| Ruby \| JavaScript
 
-**Machine Learning & Analytics:**
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+**Frameworks & Technologies:**\
+Django \| Ruby on Rails \| AngularJS \| HTML \| CSS
 
-**Frameworks:**
-`Django` `Ruby on Rails` `AngularJS`
+**Machine Learning & Data Analysis:**\
+Scikit-learn \| Pandas \| NumPy \| Matplotlib \| Seaborn
 
-**Databases:**
-`MySQL` `MongoDB` `PostgreSQL`
+**Databases:**\
+MySQL \| MongoDB \| PostgreSQL
 
-**Tools:**
-`Git` `GitHub` `Jupyter Notebook` `Google Colab`
+**Tools & Platforms:**\
+Git \| GitHub \| Jupyter Notebook \| Google Colab
 
----
+------------------------------------------------------------------------
 
-## 📂 Key Project Portfolio
+## Selected Project Experience
 
-### 🔹 Customer Segmentation Engine
+### Machine Learning Portfolio
 
-* Applied KMeans & DBSCAN clustering
-* Behavioral analytics for segmentation insights
-* Feature scaling & dimensionality reduction
+Developed multiple real-world analytical models covering classification,
+regression, clustering, and dimensionality reduction. Implemented
+workflows involving data cleaning, transformation, model training,
+validation, and performance evaluation.
 
-### 🔹 Predictive Modeling Suite
+### Customer Segmentation Using Clustering Techniques
 
-* Logistic Regression, Random Forest, SVM, Naive Bayes
-* Hyperparameter tuning & cross-validation
-* Built evaluation pipelines using Accuracy, Precision, Recall, F1
+Applied K-Means and DBSCAN algorithms to identify meaningful customer
+groups and behavioral patterns.
 
-### 🔹 House Price Prediction System
+### Predictive Analytics for Sales and Pricing
 
-* Regression modeling with feature engineering
-* Business-driven interpretation of prediction metrics
+Built regression-based models with feature engineering and evaluation
+metrics to support data-driven forecasting.
 
-### 🔹 End-to-End Movie Analytics Pipeline
+### End-to-End Movie Analytics Project
 
-* Raw dataset → EDA → Model → Visualization
-* Delivered insight-driven storytelling dashboards
+Designed a complete pipeline from raw dataset preprocessing to
+visualization and predictive modeling for actionable insights.
 
-### 🔹 DailyTasks Web Application (Django)
+### DailyTasks Web Application (Django)
 
-* Full CRUD-based task management system
-* Demonstrates MVC architecture & database integration
+Created a full-stack task management system demonstrating CRUD
+operations, template rendering, and database integration.
 
-### 🔹 PivotXL (Industry Project Contribution)
+### PivotXL -- Data Processing & KPI Dashboard
 
-* Excel ingestion & transaction categorization engine
-* KPI dashboards & interactive reporting modules
-* Built scalable backend logic using Rails ecosystem
+Developed modules for Excel data ingestion, transaction categorization,
+and KPI visualization using Rails-based architecture and interactive
+dashboards.
 
----
+------------------------------------------------------------------------
 
-## 📊 GitHub Analytics
+## Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepikarr10&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikarr10&layout=compact" height="165"/>
-</p>
+-   Associate Data Scientist in Python\
+-   Gen AI for Software Development\
+-   MongoDB: Complete Guide to NoSQL Development\
+-   Ruby Scripting for DevOps\
+-   Advanced Django Development
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepikarr10"/>
-</p>
+------------------------------------------------------------------------
 
----
+## Professional Strengths
 
-## 🏆 Certifications
+-   Strong ability to translate complex data into meaningful business
+    insights\
+-   Experience in both software engineering and applied data science\
+-   Proven track record of mentoring learners through practical,
+    project-based training\
+-   Commitment to clean code practices, model interpretability, and
+    scalable design\
+-   Continuous learner focused on emerging AI and analytics technologies
 
-* Associate Data Scientist in Python
-* Gen AI for Software Development
-* MongoDB – Complete Guide
-* Ruby Scripting for DevOps
-* Advanced Django Development
+------------------------------------------------------------------------
 
----
+## Current Focus
 
-## 🎯 What I Bring to an Organization
+Actively expanding expertise in deployable machine learning solutions,
+applied analytics, and real-world data science implementations while
+contributing to educational and development-driven initiatives.
 
-✅ Ability to translate complex data into actionable insights
-✅ Blend of **Teaching + Development + Analytics** expertise
-✅ Strong debugging, optimization, and scalable design skills
-✅ Experience guiding learners into industry-ready professionals
-✅ Passion for building interpretable, production-ready ML solutions
+------------------------------------------------------------------------
 
----
-
-## 📈 Current Focus
-
-* Deployable Machine Learning Applications
-* Applied AI Solutions for Real-World Problems
-* Expanding Data Science Case Studies
-* Building Learning-Centric Engineering Systems
-
----
-
-## 🤝 Open to Opportunities
-
-I am open to roles in:
-
-**Data Science | Machine Learning | Data Analytics | Technical Training | Full Stack Development**
-
-Let’s collaborate to build impactful, data-driven solutions.
-
----
-
-⭐ *“Turning Data into Decisions. Teaching Others to Do the Same.”*
+**Open to opportunities in Data Science, Machine Learning, Analytics,
+and Technical Development.**
